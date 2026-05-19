@@ -8,7 +8,6 @@ Me chamo Darlei Pedro Feix, tenho 28 anos e sou natural do Rio Grande do Sul. Co
 
 ### 🤖 Linguagens e Tecnologias
 
-
 <img 
     align="left" 
     alt="Java"
@@ -81,15 +80,13 @@ Me chamo Darlei Pedro Feix, tenho 28 anos e sou natural do Rio Grande do Sul. Co
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
 <img 
      align="left" 
     alt="Jira" 
     title="Jira"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
+/>
           
-<br/>
-<br/>
 
