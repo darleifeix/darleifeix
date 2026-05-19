@@ -8,22 +8,7 @@ Me chamo Darlei Pedro Feix, tenho 28 anos e sou natural do Rio Grande do Sul. Co
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>          
-<img 
-    align="left" 
-    alt="PostgreeSQL"
-    title="PostgreeSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"          
-/>      
+   
 <img 
     align="left" 
     alt="Postman"
@@ -88,5 +73,21 @@ Me chamo Darlei Pedro Feix, tenho 28 anos e sou natural do Rio Grande do Sul. Co
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>          
+<img 
+    align="left" 
+    alt="PostgreeSQL"
+    title="PostgreeSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"          
+/>   
           
 
