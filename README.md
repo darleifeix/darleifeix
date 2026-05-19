@@ -15,8 +15,8 @@ Me chamo Darlei Pedro Feix, tenho 28 anos e sou natural do Rio Grande do Sul. Co
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>          
 <img 
     align="left" 
     alt="PostgreeSQL"
@@ -39,7 +39,7 @@ Me chamo Darlei Pedro Feix, tenho 28 anos e sou natural do Rio Grande do Sul. Co
     title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"        
 />
 <img 
     align="left" 
