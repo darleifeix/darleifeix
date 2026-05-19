@@ -18,6 +18,13 @@ Me chamo Darlei Pedro Feix, tenho 28 anos e sou natural do Rio Grande do Sul. Co
 />
 <img 
     align="left" 
+    alt="Spring"
+    title="Spring" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img 
+    align="left" 
     alt="PostgreeSQL"
     title="PostgreeSQL" 
     width="30px" 
